@@ -1,16 +1,13 @@
-## Hi there 👋
+<!--BANNER-->
+<div align="center">
+  <img src="https://giffiles.alphacoders.com/223/223158.gif" width="100%" alt="banner"/>
+</div>
 
-<!--
-**JAZZS10/JAZZS10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- TITLE -->
+<div align="center">
+  <img src="<a href="https://git.io/typing-svg"><img src="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7C16A&background=FFFFFF00&center=true&width=450&lines=Ideias+que+ganham+vida+em+c%C3%B3digo" alt="Typing SVG"Typing SVG"/>
+</div>
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
