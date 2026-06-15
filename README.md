@@ -10,4 +10,14 @@
 
 <br/>
 
-<!--CONTANT--!>
+<!--CONTANT-->
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/Ruansantos)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-1a1a1a?style=flat-square&logo=vercel&logoColor=c9a84c)](https://Jazzs10)
+
+</div>
+
+<br/>
+
+<div align="center">
